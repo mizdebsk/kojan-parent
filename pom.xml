@@ -29,10 +29,6 @@
   <scm>
     <url>https://github.com/mizdebsk/kojan-parent.git</url>
   </scm>
-  <issueManagement>
-    <system>Github</system>
-    <url>https://github.com/fedora-java/xmvn/issues/</url>
-  </issueManagement>
   <distributionManagement>
     <snapshotRepository>
       <id>ossrh</id>
