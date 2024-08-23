@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.kojan</groupId>
   <artifactId>kojan-parent</artifactId>
-  <version>3</version>
+  <version>4</version>
   <packaging>pom</packaging>
   <name>io.kojan parent POM</name>
   <description>io.kojan parent POM</description>
