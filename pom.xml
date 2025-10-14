@@ -42,7 +42,7 @@
     <url>https://github.com/mizdebsk/kojan-parent.git</url>
   </scm>
   <properties>
-    <kojan.javaRelease>21</kojan.javaRelease>
+    <kojan.javaRelease>25</kojan.javaRelease>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <build>
